@@ -1,1 +1,1 @@
-This file sucks
+print ("Second py script file")
