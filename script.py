@@ -1,6 +1,3 @@
-#! /usr/bin/python3
+print ("This is so cool!")
 
-printf "This is so cool!"
-
-
-printf "Luke is not a great python developer"
+print ("Luke is not a great python developer")
