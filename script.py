@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 printf "This is so cool!"
 
 
